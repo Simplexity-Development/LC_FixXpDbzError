@@ -1,0 +1,7 @@
+{
+  "name": "Fix_XP_Divide_By_Zero_Error",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Simplexity-Development/LC_FixXpDbzError",
+  "description": "A workaround to the XP Divide By Zero exception that can cause your game to hang.",
+  "dependencies": []
+}
